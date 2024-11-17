@@ -1,2 +1,2 @@
 # homework3
-Ansible nginx
+Ansible Install and configure NGINX
